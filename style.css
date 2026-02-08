@@ -1574,12 +1574,9 @@ ul {
         margin: auto;
     }
 
-  .return{
-        width: 70vw;
-    }
-    nav{
-     width: 70vw;
-    }
+ body{
+     width:80vw;
+ }
     .row3,
     .row5,
     .row6,
